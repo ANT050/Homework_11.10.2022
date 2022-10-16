@@ -16,6 +16,8 @@
 
 2, 4 -> 16
 
+[Перейти к решению](https://github.com/ANT050/Homework_11.10.2022/blob/main/Task25/Program.cs "Открыть")
+
 ---
 
 <u>***Задача 27:***</u>
@@ -26,7 +28,9 @@
 
 82 -> 10
 
-9012 -> 120
+9012 -> 12
+
+[Перейти к решению](https://github.com/ANT050/Homework_11.10.2022/blob/main/Task27/Program.cs "Открыть")
 
 ---
 
@@ -39,5 +43,7 @@
 6, 1, 33 -> [6, 1, 33]
 
 ввод элеменетов через консоль (через запятую. использовать метод string.Split())
+
+[Перейти к решению](https://github.com/ANT050/Homework_11.10.2022/blob/main/Task29/Program.cs "Открыть")
 
 ---
